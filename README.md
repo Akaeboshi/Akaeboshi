@@ -20,8 +20,8 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasheler&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasheler&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akaeboshi&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaeboshi&theme=tokyonight" height="165" />
 </p>
 
 ---
