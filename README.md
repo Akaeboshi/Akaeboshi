@@ -19,11 +19,12 @@
 ---
 
 ## 🎶 Agora tocando (YouTube Music)
-<p align="center">
-  <img src="https://lastfm-readme.vercel.app/api?user=Akaeboshi&theme=radon&showicon=true&autorefresh=30" alt="Now Playing" />
+
+<div align="center">
+  <img src="https://lastfm-readme.vercel.app/api?user=akaeboshi&theme=radon&showicon=true&size=large" alt="Now Playing" />
   <br>
-  <i>🎧 Atualizado automaticamente via Last.fm (YouTube Music)</i>
-</p>
+  <i>🎧 Sincronizado com YouTube Music via Last.fm</i>
+</div>
 
 ---
 
