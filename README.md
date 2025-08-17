@@ -29,6 +29,14 @@ Proficiente em:
 📊 Visualização e análise de dados  
 🤝 Liderança de equipes e metodologias ágeis
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasheler&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 🌐 Contatos
 <p align="center"> <a href="mailto:lucasheler3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/lucas-heler"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://drive.google.com/file/d/1ePbZ-6E33W8p4r0v2HUQc5EHRmtTqzN2/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculum-228B22?style=for-the-badge&logo=google-docs&logoColor=white&label=Meu+CV"/></a>
